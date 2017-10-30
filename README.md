@@ -1,5 +1,5 @@
 # jzps-pring
-copy by yihua.huang@dianping.com
+copy from yihua.huang@dianping.com
 =====================================================
 2017-10-31
 ------------------------------------------------
@@ -11,4 +11,6 @@ Could not read from remote repository.
 
 方法很简单：在Settring -> VersionControl ->GitHub中去掉：“Clone git repositories using ssh”即可
 -------------------------------------------------
+项目暂时有1个地方没看懂
+1、ConcurrentHashMap 这个是啥map
 
